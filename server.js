@@ -1,5 +1,6 @@
 import express from 'express';
 import nodemon from 'nodemon';
+import connectDatabase from './config/db';
 
 //Initialize express application
 const app = express();
