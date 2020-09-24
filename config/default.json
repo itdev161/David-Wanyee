@@ -1,3 +1,3 @@
 {
-    "mongoURL":"mongodb+srv://DavidWanyee:zaQgnXLSrGXkADdL@cluster0.tzi1c.mongodb.net/test"
+    "mongoURI":"mongodb+srv://DavidWanyee:zaQgnXLSrGXkADdL@cluster0.tzi1c.mongodb.net/test"
 }
