@@ -27,7 +27,7 @@ app.post(
     [
         check('name','Please enter your name')
          .not()
-         .isempty(),
+         .isEmpty(),
         check('email', 'Please enter your email').isEmail(),
         check(
             'password',
