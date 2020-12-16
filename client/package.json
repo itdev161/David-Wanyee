@@ -12,9 +12,12 @@
     "@types/react-dom": "^16.9.8",
     "axios": "^0.20.0",
     "cors": "^2.8.5",
+    "jsonwebtoken": "^8.5.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.1",
+    "slugify": "^1.4.6",
     "typescript": "^3.7.5"
   },
   "scripts": {
