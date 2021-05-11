@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/itdev161/David-Wanyee#readme",
   "dependencies": {
+    "axios": "^0.21.1",
     "bcryptjs": "^2.4.3",
     "config": "^3.3.1",
     "cors": "^2.8.5",
